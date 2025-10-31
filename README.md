@@ -54,4 +54,8 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+<img width="1250" height="944" alt="image" src="https://github.com/user-attachments/assets/95872513-e15a-463b-af16-956dc973a5c9" />
+
 ### RESULT: 
+
+Hence, Successfully generated associate rules for the employee dataset using Apriori Algorithm.
